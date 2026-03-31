@@ -1,0 +1,11 @@
+Weight,Height,Age,Gender,Label
+50,160,25,Male,Underweight
+60,165,30,Female,Normal
+70,170,28,Male,Normal
+80,175,35,Female,Overweight
+90,180,40,Male,Overweight
+45,155,22,Female,Underweight
+65,168,33,Male,Normal
+75,172,29,Female,Overweight
+85,178,38,Male,Obese
+95,182,45,Female,Obese
